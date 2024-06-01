@@ -40,6 +40,7 @@ export default async function Page({
   );
 }
 
+
 export const metadata: Metadata = {
-  title: 'Invoices',
+  title: 'Invoices | Acme Dashboard',
 };
